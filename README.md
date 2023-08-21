@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManagerCat
-- 👀 I’m interested JS & Lua
-- 🌱 I’m currently learning frontend & Java
-- 📫 How to reach me: Discord = ManagerDuck#4087
+- 👀 I’m interested JS, Lua, and C#
+- 🌱 I’m currently learning Unity and Next.js
+- 📫 How to reach me: Discord = mgr.duck
 
 <!---
 ManagerCat/ManagerCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
