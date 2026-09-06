@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManagerCat
 - 👀 I’m interested JS, Lua, and C#
-- 🌱 I’m currently learning Unity and Next.js
+- 📚 I’m a Systems Engineering and Design major at UIUC
 - 📫 How to reach me: Discord = mgr.duck
 - Achievements: Empower Hacks 2023 2nd Place Team
 
